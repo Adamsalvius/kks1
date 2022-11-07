@@ -25,7 +25,7 @@ const Overview = () => {
 	return (
 		<Box display="grid">
 			
-			<Box display="flex" justifyContent={"space-around"} pos="sticky"> {/* Styl.ItemContainer */}
+			<Box display="flex" justifyContent={"space-around"} pos="sticky"> 
 				
 			
 				{tasksOpen ? (

@@ -5,18 +5,6 @@
       "name": "alla barn gillar halloween"
     },
     {
-      "id": "cccdd88c-1b88-4483-b55b-7177a0301526",
-      "name": "fsadas"
-    },
-    {
-      "id": "4996a56e-6c57-4904-bda3-8890f4058ef0",
-      "name": "hej alla coola"
-    },
-    {
-      "id": "b53cc654-7e8d-4a02-bbfb-bde7897a014b",
-      "name": "kalle"
-    },
-    {
       "id": "339a8e85-7bc0-49fa-8df3-fe9d6c6f964a",
       "name": "fiskben"
     },
@@ -59,6 +47,14 @@
     {
       "id": "21d71453-cadb-497a-aa11-d280a1f11e53",
       "name": "fiskepappa"
+    },
+    {
+      "id": "55b1e63f-9a57-4752-a007-29e9dc0826a6",
+      "name": "fishaa"
+    },
+    {
+      "id": "b72e3054-a483-490e-98f2-547b0ead477f",
+      "name": "fsadsadas"
     }
   ],
   "tasks": [
@@ -68,102 +64,22 @@
       "name": "kalaspuffar"
     },
     {
-      "id": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "projectId": "339a8e85-7bc0-49fa-8df3-fe9d6c6f964a",
-      "name": "skallerorm"
+      "id": "47463a41-dd45-4afb-b87c-44ea81afe5ab",
+      "projectId": "38d618fb-142a-470e-aca0-3ad122cd8176",
+      "name": "test task"
     },
     {
-      "id": "b4d9f532-e65c-4dc9-837c-c49fc3922b3c",
-      "projectId": "339a8e85-7bc0-49fa-8df3-fe9d6c6f964a",
-      "name": "nickelas"
+      "id": "acab2644-f46c-4fd9-a7de-1241420c8d26",
+      "projectId": "38d618fb-142a-470e-aca0-3ad122cd8176",
+      "name": "hejasa"
     },
     {
-      "id": "d9b73035-fcfd-4cec-9897-334e5a361d52",
-      "projectId": "339a8e85-7bc0-49fa-8df3-fe9d6c6f964a",
-      "name": "fsadsaa"
-    },
-    {
-      "id": "51c2b972-8754-4590-9c66-922a5704cb5e",
-      "projectId": "cccdd88c-1b88-4483-b55b-7177a0301526",
-      "name": "tjotta"
-    },
-    {
-      "id": "fb2b1cc9-229d-4f68-9d1a-b5c252074ae7",
-      "projectId": "4996a56e-6c57-4904-bda3-8890f4058ef0",
-      "name": "fsadsa"
-    },
-    {
-      "id": "4ac1b894-d018-4d6b-989b-ecf801bab6ff",
-      "projectId": "4996a56e-6c57-4904-bda3-8890f4058ef0",
-      "name": "bilbo"
-    },
-    {
-      "id": "efafeb5b-75b2-46d3-985a-54155e3513a0",
-      "projectId": "cccdd88c-1b88-4483-b55b-7177a0301526",
-      "name": "filtfarsan"
+      "id": "f6a7b2ce-f09c-47f4-b066-78f8d1b4ac2d",
+      "projectId": "b72e3054-a483-490e-98f2-547b0ead477f",
+      "name": "sadsadas"
     }
   ],
   "log": [
-    {
-      "id": "bd753fb2-296c-4744-bf08-d1cb6293694b",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667577483890,
-      "timerStart": 1667577481090
-    },
-    {
-      "id": "7936ffd6-d953-4e04-95a0-68bcae9aea99",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667577488899,
-      "timerStart": 1667577487841
-    },
-    {
-      "id": "665f317d-0bff-489f-aace-27fd78eb5c51",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667577492912,
-      "timerStart": 1667577491281
-    },
-    {
-      "id": "b92eb03d-66fe-48c7-95f5-699f18fcea3c",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667577497050,
-      "timerStart": 1667577495545
-    },
-    {
-      "id": "6cf71e0c-d5e9-4878-b9a2-6d7ef1a94c0f",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667577892441,
-      "timerStart": 1667577891258
-    },
-    {
-      "id": "cfebb3a1-5530-40d1-bc15-9b94939d2c53",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667577899418,
-      "timerStart": 1667577898193
-    },
-    {
-      "id": "da44e40a-38ce-4e37-a907-fca02345c9f9",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667577921513,
-      "timerStart": 1667577920207
-    },
-    {
-      "id": "ac59a74f-4611-48c3-8fbb-d184e80aa351",
-      "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
-      "Stopped": 1667579624223,
-      "timerStart": 1667579622367
-    },
-    {
-      "id": "529bce85-18ed-47ce-b287-e73eba94cafc",
-      "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
-      "Stopped": 1667579628062,
-      "timerStart": 1667579625327
-    },
-    {
-      "id": "5c6a930c-1754-4665-a8bf-83369183a54a",
-      "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
-      "Stopped": 1667579771838,
-      "timerStart": 1667579770445
-    },
     {
       "id": "6fffa3da-152b-40da-beb1-805d922261fd",
       "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
@@ -201,18 +117,6 @@
       "timerStart": 1667583838402
     },
     {
-      "id": "36d1c397-f491-4892-af64-37fff76b1ab3",
-      "taskId": "b4d9f532-e65c-4dc9-837c-c49fc3922b3c",
-      "Stopped": 1667584671551,
-      "timerStart": 1667584670208
-    },
-    {
-      "id": "f2a72146-4879-4450-a433-e6f8f24f97e2",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667584755822,
-      "timerStart": 1667584754904
-    },
-    {
       "id": "a850e150-b713-4f10-b860-ce9d7b1c9f96",
       "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
       "Stopped": 1667823129448,
@@ -245,58 +149,10 @@
       "id": "911ef1ee-5e44-420e-a1ac-334096d3ec8d"
     },
     {
-      "id": "0303d455-e351-42e5-bec7-5f5062c52c46",
-      "taskId": "fb2b1cc9-229d-4f68-9d1a-b5c252074ae7",
-      "Stopped": 1667829710602,
-      "timerStart": 1667829709854
-    },
-    {
-      "id": "b81186cf-f691-459e-be77-524b8dbecd31",
-      "taskId": "fb2b1cc9-229d-4f68-9d1a-b5c252074ae7",
-      "Stopped": 1667829712027,
-      "timerStart": 1667829711292
-    },
-    {
       "id": "eba433f8-9346-4e9f-a0be-8679444fee0a",
       "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
       "Stopped": 1667830824608,
       "timerStart": 1667830822513
-    },
-    {
-      "id": "cd03ae7c-21b4-4b82-9284-7437d5ca8bba",
-      "taskId": "d9b73035-fcfd-4cec-9897-334e5a361d52",
-      "Stopped": 1667830878308,
-      "timerStart": 1667830876870
-    },
-    {
-      "id": "2a0fd58c-07d1-4c00-90f6-7cd3930b5119",
-      "taskId": "d9b73035-fcfd-4cec-9897-334e5a361d52",
-      "Stopped": 1667830880638,
-      "timerStart": 1667830879423
-    },
-    {
-      "id": "6e7962c9-131f-49d6-a8ba-a42daa30a155",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667841453945,
-      "timerStart": 1667841451030
-    },
-    {
-      "id": "cf5b97ac-4423-4431-897e-5e57c099d5c6",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667841455933,
-      "timerStart": 1667841455047
-    },
-    {
-      "id": "ce8abe3d-69bd-4498-9d97-fe3950accf6a",
-      "taskId": "b4d9f532-e65c-4dc9-837c-c49fc3922b3c",
-      "Stopped": 1667848331916,
-      "timerStart": 1667848331029
-    },
-    {
-      "id": "4a57e947-2864-4e99-bd06-840160b783e0",
-      "taskId": "b4d9f532-e65c-4dc9-837c-c49fc3922b3c",
-      "Stopped": 1667848333575,
-      "timerStart": 1667848332557
     },
     {
       "id": "7b3d6191-4309-4c5a-8e5d-57093852b87a",
@@ -449,40 +305,40 @@
       "timerStart": 1667850005220
     },
     {
-      "id": "7a6f6ccb-022d-41b3-b88d-858be6a085e5",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667850495890,
-      "timerStart": 1667850493897
+      "id": "cbaa953c-ce72-40c7-b5f7-59d7fb503295",
+      "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
+      "Stopped": 0,
+      "timerStart": 1679251023383
     },
     {
-      "id": "330b6056-2d28-4350-a30e-f1ba9c4f6560",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667850499088,
-      "timerStart": 1667850497058
+      "id": "307898ce-bdd0-4fd6-b8d9-6f7a39eff11b",
+      "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
+      "Stopped": 1679251027019,
+      "timerStart": 1679251025776
     },
     {
-      "id": "c850ea51-661b-45f4-878e-0208668cb231",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667850502289,
-      "timerStart": 1667850500427
+      "id": "3bf2b174-4127-4483-9320-bbebf347188b",
+      "taskId": "47463a41-dd45-4afb-b87c-44ea81afe5ab",
+      "Stopped": 1679251054356,
+      "timerStart": 1679251053236
     },
     {
-      "id": "b1c05886-62ed-4fe5-85ea-0f880e6e9dcd",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667850512490,
-      "timerStart": 1667850511522
+      "id": "cbf497a6-a3ab-4d07-91f1-f0e7056c086b",
+      "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
+      "Stopped": 0,
+      "timerStart": 1679251190667
     },
     {
-      "id": "78f94b4e-731a-44ea-b7b8-b0481428cf97",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667851932101,
-      "timerStart": 1667851930613
+      "id": "0ca6c96d-1e48-4e8d-9ff7-3e5cff229b89",
+      "taskId": "c95032ab-1c9c-4230-a42f-b1d83e28a149",
+      "Stopped": 1679251192849,
+      "timerStart": 1679251192031
     },
     {
-      "id": "62ede908-e615-482f-bead-38cb1a9150b2",
-      "taskId": "2ee0e88d-7b8a-44fb-9049-f8c3b1690a03",
-      "Stopped": 1667851934342,
-      "timerStart": 1667851933363
+      "id": "c8b073f0-0b3f-4209-996a-977a22437857",
+      "taskId": "acab2644-f46c-4fd9-a7de-1241420c8d26",
+      "Stopped": 1679251208495,
+      "timerStart": 1679251207106
     }
   ]
 }

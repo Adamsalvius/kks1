@@ -13,8 +13,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "server": "json-server --watch db.json",
-    "test": "vitest",
-    "livos": "react-scripts test"
+    "test": "vitest"
   },
   "dependencies": {
     "@chakra-ui/react": "^2.5.2",

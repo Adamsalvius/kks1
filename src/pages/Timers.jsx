@@ -124,14 +124,14 @@ const Timers = () => {
                     {task.name}
                   </Text>
                 ) : (
-                  <Text color={"gray"}>{task.name}</Text>
+                  <Text id={task.id} color={"gray"}>{task.name}</Text>
                 )}
 
                 {currentTask === task.id ? (
                   <></>
                 ) : (
-                  <Button value={task.id} onClick={handleCurrentTask}>
-                    Time
+                  <Button value={task.id}  onClick={handleCurrentTask}>
+                    Time {task.name}
                   </Button>
                 )}
 
@@ -142,7 +142,7 @@ const Timers = () => {
                       display={"flex"}
                       justifyContent={"center"}
                     >
-                      <Button onClick={handleClickAdd}>Start</Button>
+                      <Button id={task.id} onClick={handleClickAdd}>Start</Button>
 					  {isShown && (
                       <Button
                         onClick={() => handleStop({ Stopped: Date.now() })}

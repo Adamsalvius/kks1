@@ -23,7 +23,7 @@ const Overview = () => {
 	};
 
 	return (
-		<Box display="grid">
+		<Box display="grid" id="yusuf">
 			
 			<Box display="flex" justifyContent={"space-around"} pos="sticky"> 
 				

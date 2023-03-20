@@ -52,8 +52,8 @@ const Calendar = () => {
           justifyContent={"center"}
         >
           <Box display={"flex"} justifyContent={"center"}>
-           
-            <input w={60} type="datetime-local" onChange={handleInputDate} />
+           <input type="datetime-local" w={60} h={20} onChange={handleInputDate} />
+            
           </Box>
         
         </Box>

@@ -1,8 +1,8 @@
-const { chromium } = require('playwright');
+
 import { test, expect } from '@playwright/test';
 
-test('test', async ({ page }) => {
-  await page.goto('http://localhost:5173/');
+  test('PW test', async ({ page }) => {
+  await page.goto('localhost:5173');
   await page.getByRole('button', { name: 'Tasks' }).click();
   await page.getByRole('button', { name: 'Add a Task' }).click();
   await page.getByRole('combobox').selectOption('4996a56e-6c57-4904-bda3-8890f4058ef0');

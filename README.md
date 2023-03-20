@@ -5,3 +5,7 @@ använde uuid för att skapa unika ids för mindre krångel.
   använde mig av timernode för att jag fick bra tips från kursare 
   använde mig av axios för lättare anrop till server. 
   Fått kämpa satan men känner att jag lärt mig mycket
+
+
+  npx playwright test e2e.spec.js
+  

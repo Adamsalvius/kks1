@@ -8,4 +8,4 @@ använde uuid för att skapa unika ids för mindre krångel.
 
 
   npx playwright test e2e.spec.js
-  
+  sista html-kalendern fick jag inte playwright att testa, satt länge men den vägrar. tar gärna emot tips
